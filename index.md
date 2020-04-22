@@ -1,6 +1,6 @@
 # An intro into *Markdown*
 
-Today in the lectue we are going to make our first little program. And we are also learning a programing language called markdown.
+Today, in the lectue we are going to make our first little program. And we are also learning a programing language called markdown.
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
