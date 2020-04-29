@@ -17,3 +17,7 @@ There are three programming languages in the browser:
 ## Creating Emphasis
 
 I want to express this **important** issue by making it bold. Other issues are in *italics* or _italics_. And I can show how this ~~does not~~ work, so strike it through.
+
+[Data Protection](/data-privacy)
+
+
