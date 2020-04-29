@@ -1,3 +1,5 @@
+[About](/about.md)|[About](/Blog)
+
 # An intro into *Markdown*
 
 Today, in the lectue we are going to make our first little program. And we are also learning a programing language called markdown.
