@@ -4,4 +4,5 @@
 
 bla bla bla
 
-[...back](/)
+[back](/blog.md)
+
