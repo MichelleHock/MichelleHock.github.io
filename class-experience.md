@@ -1,6 +1,6 @@
 # My DNE-Class Experience
 
-![digitl classroom](classroom.jpeg)
+![digital classroom](classroom.jpeg)
 
 bla bla bla
 
