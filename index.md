@@ -1,4 +1,4 @@
-[About](/about.md)|[About](/Blog)
+[About](/about.md)|[About](/blog)
 
 # An intro into *Markdown*
 

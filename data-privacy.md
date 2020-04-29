@@ -1,6 +1,6 @@
 # Data Privacy
 
-This is required by law.
+*This is required by law.*
 
 ### Data privacy
 
